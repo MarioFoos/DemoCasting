@@ -1,9 +1,6 @@
 //============================================================================
-// Name        : DemoCasting.cpp
-// Author      : Mario Foos
-// Version     :
-// Copyright   : 
-// Description : Hello World in C++, Ansi-style
+// Autor: Diardon
+// Blog : https://diardon.wordpress.com/
 //============================================================================
 
 #include <iostream>
